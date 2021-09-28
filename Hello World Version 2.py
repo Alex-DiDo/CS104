@@ -6,4 +6,3 @@ Hello my name is Alex
 >>> # This is Version 2 of my Hello World Program
 >>> print("Hello my name is Alex DiDomenico")
 Hello my name is Alex DiDomenico
->>>
